@@ -10,5 +10,5 @@ This is an inventory management system using JSON
 7.  in sales.json file there are already 10 purchased history along with their purchased time.
 
 
-I have created this project using JSON
-For more clear idea look int "record.json" file for the product list and "sales.json" file for puchasing history list
+I have created this project using JSON.
+For more clear idea look into "record.json" file for the product list and "sales.json" file for purchasing history list.
