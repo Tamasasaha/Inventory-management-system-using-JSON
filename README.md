@@ -11,3 +11,4 @@ This is an inventory management system using JSON
 
 
 I have created this project using JSON
+For more clear idea look int "record.json" file for the product list and "sales.json" file for puchasing history list
